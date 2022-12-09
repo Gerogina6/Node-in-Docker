@@ -1,0 +1,23 @@
+{
+  "name": "node-in-docker",
+  "version": "1.0.0",
+  "description": "🏎Node入门，Express框架搭建Docker服务器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gerogina6/Node-in-Docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gerogina6/Node-in-Docker/issues"
+  },
+  "homepage": "https://github.com/Gerogina6/Node-in-Docker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
